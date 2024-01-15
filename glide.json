@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Currency Conversion",
+    "description": "Converts a specified amount from USD to BGN using real-time exchange rates.",
+    "author": "Your Name <your@email.com>",
+    "params": [
+      {
+        "name": "amount",
+        "displayName": "Amount in USD",
+        "type": "number"
+      }
+    ],
+    "result": {
+      "type": "number"
+    }
+  }
+]
